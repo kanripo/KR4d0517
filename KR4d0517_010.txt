@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 傅與礪集
-#+DATE: 2020-03-31 11:35:35.315365
+#+DATE: 2020-03-31 11:35:35.490009
 #+PROPERTY: ID KR4d0517
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR4d0517_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -94,7 +94,7 @@
 ¶
 　　酃為邑居羣山之阿山多石鮮平地厓峭壁竦上絶天¶
 半水泉之發間闗出石下鬱流千折然後稍趨平焉其¶
-山川清氣之㑹㴠異蓄靈於江宜盛凡物之洩其芳潤¶
+山川清氣之㑹涵異蓄靈於江宜盛凡物之洩其芳潤¶
 萃其菁華不為佳木竒卉必為秀民酃治之南有梅江¶
 <pb:KR4d0517_WYG_010-5b>¶
 邑士張世傑嘗居其涘久之因取以自號夫名者實之¶
